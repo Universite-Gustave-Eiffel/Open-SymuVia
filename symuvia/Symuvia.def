@@ -1,0 +1,6 @@
+; Symuvia.def : déclare les paramètres de module.
+
+LIBRARY      "Symuvia.DLL"
+
+EXPORTS
+	
