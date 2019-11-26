@@ -10,5 +10,5 @@ Multiples components to reproduce urban networks (intersections, lane-changing, 
 
 **Open-SymuVia** is developped by the [LICIT](http://www.licit.ifsttar.fr/) an IFSTTAR / ENTPE joint research laboratory. 
 
-Open-SymuVia is distributed under **LGPL V3 license**.
+Open-SymuVia is distributed under **[LGPL V3 license](https://github.com/Ifsttar/Open-SymuVia/lgpl-3.0.txt)**.
 
