@@ -1,1 +1,1 @@
-**This repository was deprecated and move to ![licit_lab / Open-SymuVia](https://github.com/licit-lab/Open-SymuVia)**
+**This repository was deprecated and moved to ![licit_lab / Open-SymuVia](https://github.com/licit-lab/Open-SymuVia)**
